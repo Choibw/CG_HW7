@@ -1,0 +1,19 @@
+﻿  main_Phong_Shader.cpp
+  GLM: rotate function taking degrees as a parameter is deprecated. #define GLM_FORCE_RADIANS before including GLM headers to remove this message.
+  GLM: rotate_slow function taking degrees as a parameter is deprecated. #define GLM_FORCE_RADIANS before including GLM headers to remove this message.
+  GLM: perspective function taking degrees as a parameter is deprecated. #define GLM_FORCE_RADIANS before including GLM headers to remove this message.
+  GLM: perspectiveFov function taking degrees as a parameter is deprecated. #define GLM_FORCE_RADIANS before including GLM headers to remove this message.
+  GLM: infinitePerspective function taking degrees as a parameter is deprecated. #define GLM_FORCE_RADIANS before including GLM headers to remove this message.
+  GLM: tweakedInfinitePerspective function taking degrees as a parameter is deprecated. #define GLM_FORCE_RADIANS before including GLM headers to remove this message.
+  GLM: rotate function taking degrees as a parameter is deprecated. #define GLM_FORCE_RADIANS before including GLM headers to remove this message.
+  GLM: roll function returning degrees is deprecated. #define GLM_FORCE_RADIANS before including GLM headers to remove this message.
+  GLM: pitch function returning degrees is deprecated. #define GLM_FORCE_RADIANS before including GLM headers to remove this message.
+  GLM: yaw function returning degrees is deprecated. #define GLM_FORCE_RADIANS before including GLM headers to remove this message.
+  GLM: angle function returning degrees is deprecated. #define GLM_FORCE_RADIANS before including GLM headers to remove this message.
+  GLM: angleAxis function taking degrees as a parameter is deprecated. #define GLM_FORCE_RADIANS before including GLM headers to remove this message.
+C:\Users\den01\OneDrive\바탕 화면\OpenGLEX1\EmptyViewer\main_Phong_Shader.cpp(224,23): warning C4018: '<': signed/unsigned mismatch
+  SceneGenerator.cpp
+C:\Users\den01\OneDrive\바탕 화면\OpenGLEX1\EmptyViewer\SceneGenerator.cpp(25,45): warning C4244: '=': conversion from 'double' to 'float', possible loss of data
+C:\Users\den01\OneDrive\바탕 화면\OpenGLEX1\EmptyViewer\SceneGenerator.cpp(26,49): warning C4244: '=': conversion from 'double' to 'float', possible loss of data
+  Generating Code...
+  EmptyViewer.vcxproj -> C:\Users\den01\OneDrive\바탕 화면\OpenGLEX1\bin\EmptyViewer.exe
